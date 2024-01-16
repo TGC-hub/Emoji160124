@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd392751887b9847801301662be316b, type: 3}
+  m_Name: Mission_3
+  m_EditorClassIdentifier: 
+  emoji: {fileID: 3927471483736655183, guid: e007195014ed27248aa012d7c242f517, type: 3}
+  targetLeft: {fileID: 5966233609722770663, guid: 054bb7990218afa4cb9335e0ab852c34, type: 3}
+  targetRight: {fileID: 4093443601337509081, guid: 487e2027164ddb9479502028ab2b34ab, type: 3}
+  numberTarget: 2
+  nameMission: The woman is talking too much, helping the man vent
+  listEmoji:
+  - {fileID: 7750194988642053539, guid: e31e63a1eafae90489cbf564abb21232, type: 3}
+  - {fileID: 6715089642675838296, guid: da1b4d8c2bda88348802d67c4db3acb7, type: 3}
+  - {fileID: 4854592745358459317, guid: a9981bdf16bd87e489a68071706560e6, type: 3}

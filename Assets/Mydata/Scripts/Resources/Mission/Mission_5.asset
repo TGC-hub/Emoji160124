@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd392751887b9847801301662be316b, type: 3}
+  m_Name: Mission_5
+  m_EditorClassIdentifier: 
+  emoji: {fileID: 3867263693938228179, guid: 39cba475034d0094eba8b6f7f7173188, type: 3}
+  targetLeft: {fileID: 5966233609722770663, guid: b72215d27ca6d78429cd4c9f550eef86, type: 3}
+  targetRight: {fileID: 5966233609722770663, guid: 615b81c97b36e074eadf5295b09402e6, type: 3}
+  numberTarget: 1
+  nameMission: Help her have a meal
+  listEmoji:
+  - {fileID: 4854592745358459317, guid: a9981bdf16bd87e489a68071706560e6, type: 3}
+  - {fileID: 4193230587157210425, guid: 49d40ddef84408741ac3475a24e6f625, type: 3}

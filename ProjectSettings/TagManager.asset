@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plane
+  - CameraZoom
+  - Arrow
+  - Enemy
+  - Human
+  - CameraFollowEvent
+  - PointStart
+  - PlaneIntro
+  - PlaneInPlayGame
+  - CameraStart
+  - PointShoot
+  - MapHouse
+  - ArrowActiveEvent
+  - EventController
+  - PosContent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Ground
+  - Wall
+  - Human
+  - CrossbowView
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

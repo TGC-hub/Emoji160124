@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd392751887b9847801301662be316b, type: 3}
+  m_Name: Mission_2
+  m_EditorClassIdentifier: 
+  emoji: {fileID: 566040821139394951, guid: 005c125aa0f6c60469f6288cf820b79d, type: 3}
+  targetLeft: {fileID: 5966233609722770663, guid: 054bb7990218afa4cb9335e0ab852c34, type: 3}
+  targetRight: {fileID: 52119733042581409, guid: 5c1e92f263d35954f9265fecfd6e494b, type: 3}
+  numberTarget: 2
+  nameMission: They are having a car accident, helping them to reconcile
+  listEmoji:
+  - {fileID: 7750194988642053539, guid: e31e63a1eafae90489cbf564abb21232, type: 3}
+  - {fileID: 6715089642675838296, guid: da1b4d8c2bda88348802d67c4db3acb7, type: 3}
